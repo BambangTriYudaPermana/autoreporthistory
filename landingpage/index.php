@@ -210,7 +210,7 @@
 
       <div id="logo">
         <!-- <a href="index.html"><img src="../assets/landing/img/logo.png" alt=""></a> -->
-        <a href="index.html"><img src="../assets/images/logo1.png" alt="" style="width: 50%;"></a>
+        <a href="index.html"><img src="../assets/images/logo3.png" alt="" style="width: 50%;"></a>
         <!-- Uncomment below if you prefer to use a text logo -->
         <!--<h1><a href="index.html">Regna</a></h1>-->
       </div>
